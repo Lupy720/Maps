@@ -1,0 +1,5725 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.037807,48.64136 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.040342,47.880344 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.077322,49.211936 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.367768,47.814441 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.787957,51.949095 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.981917,53.104089 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.444626,52.308911 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.544758,54.477799 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.18326,48.956242 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.264215,52.359241 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.780047,50.796377 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.47046,49.769148 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.00140633,49.91157864 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.939778,53.460761 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.046655,48.765484 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.533227,53.067403 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.493001,52.174537 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.89809,47.82683 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.44042,48.411054 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.821513,49.459823 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.675267,51.570195 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.35084,52.278996 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.017713,48.785079 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.169818,52.658124 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.633307,51.370996 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.48516,51.087187 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.610193,51.440431 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.750214,50.48272 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9899167,50.645428 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.55031,48.2725284 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.776552,50.202872 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.776552,50.202872 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.137328,51.290043 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.006662,50.181953 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.274088,51.08246 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.802193,53.369722 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.150694,48.99469384 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.140477,51.947203 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.304389,51.45047 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.068356,49.1818243 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.581893,48.510794 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.806088,53.02835 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.662612,48.343115 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.085489,54.092811 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.986505,53.234675 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.030968,48.457062 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.825672,49.924001 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.289436,50.934371 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1348611,49.5326939 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.576252,49.770776 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.346059,50.059472 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.097035,53.507179 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.684882,50.643921 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.498506,47.627306 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.657061,48.580314 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.144882,48.721367 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.79623,49.495764 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.739883,54.343668 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.181771,53.946741 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.820229,49.633715 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.913891,49.069594 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.264304,49.045914 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.197406,48.441201 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.952976,51.684712 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.161079,49.802813 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.754079,48.974512 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.00855,51.48997 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.863384,54.130463 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.169965,49.804636 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.710652,49.760274 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.501619,51.516865 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.620505,48.845449 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.563931,52.269477 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.965753,51.20521 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.960586,53.112551 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.59049,52.909968 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.723653,48.874935 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.22353,47.870202 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.645799,47.762355 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.61057,51.296039 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.075588,52.620471 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.182821,48.782061 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.75784,47.696841 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.973796,47.741115 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.507581,50.615966 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.007522,51.452238 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.573063,53.543143 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.934645,51.084111 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.398816,52.319613 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.428778,52.900782 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.987699,47.884845 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.341089,47.998544 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.843493,49.241143 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.808276,48.576768 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.722908,54.370312 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.978401,54.379786 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.777253,52.327999 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.850224,47.821398 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.590302,50.232766 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.465273,51.189695 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.03581,47.67835 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.728178,48.283061 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.606253,51.294842 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.845582,47.996917 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.916858,50.105208 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.046933,54.479089 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.682382,47.609196 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.93856,54.31469 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.014534,49.413969 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.76604,47.775341 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.700043,50.600619 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.979261,50.666796 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.903479,49.832136 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.097579,47.494881 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.093944,47.494519 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.293505,50.419948 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.897065,47.812958 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.127003,51.843063 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.05183,53.362385 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.811673,51.307102 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.776066,52.328831 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.45715,51.208054 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.240205,48.756047 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.539278,49.752245 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.407844,49.360329 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.326838,47.67653 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.881456,51.492515 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.661365,47.731545 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.54225,48.144843 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.738794,52.370933 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737333,50.369164 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.897845,53.423706 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.014821,49.589722 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.019491,53.563174 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.756624,47.717255 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.747156,52.364325 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.592119,47.570013 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.730886,47.582628 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.309784,48.345628 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.346194,52.509837 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6043843,48.1288686 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.97722,52.542288 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.776727,52.327176 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.856746,48.080144 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.840276,51.067001 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.527421,51.19325 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.65238,53.886909 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.753913,47.694217 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.990598,47.45766 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.49955,50.576469 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.402295,47.766858 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.540239,52.457151 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.695266,49.407828 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.98444,47.598613 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.500456,47.617695 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.265785,47.425775 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.807841,53.082424 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.480069,50.192304 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.284093,51.179219 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.350734,48.838149 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.797778,54.310633 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.903733,54.144684 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.522766,53.10375 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.511534,51.188093 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.446995,52.234288 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.704861,51.519223 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.626087,50.127993 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.680027,50.117217 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.644472,50.11638 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.692319,50.109956 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.586884,48.167514 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.342583,53.31975 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.260606,48.411279 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.992734,52.803505 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.664761,49.773284 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.752974,47.934705 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.333932,53.531187 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.18368,49.859743 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.869575,50.098528 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.682085,48.150085 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.401259,52.644923 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.062908,50.84661 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.289553,49.374788 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.117425,49.589261 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.197992,54.27793 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.843197,54.14348 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.885819,53.56384 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.850863,49.620521 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.454519,52.42965 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.947968,51.234912 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.946907,53.784901 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.733827,51.005166 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.733823,51.36572 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.078443,51.113365 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.110404,51.114078 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.855442,50.880205 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.320838,50.976701 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.548958,51.59881 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.785125,51.836671 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.106184,50.993857 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.094001,50.788765 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.419027,52.52503 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.95006,51.629144 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.660282,51.658231 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.629745,51.747288 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.672826,49.409078 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.598778,48.152605 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.718483,49.160084 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.591311,47.797762 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.591364,50.055934 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.029984,53.535419 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.093918,48.821243 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.213523,47.472516 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.090754,48.508671 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.061339,52.283597 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.251829,51.19059 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.505495,51.662491 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.726265,49.093505 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.356948,48.226165 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.404798,48.941527 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.013638,47.550726 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.598153,47.040421 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.052395,48.519885 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.990748,49.228887 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.567152,48.874652 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.511305,54.344393 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.504875,50.621941 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.744672,48.401102 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.682278,47.544327 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.579167,49.949118 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.73926,51.06419 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.829478,49.215865 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.24184,48.756179 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609779,50.100911 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.700084,54.381696 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.042626,52.189656 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.916833,52.183262 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.165665,49.538897 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.441416,53.483551 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.566601,49.414911 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.691874,49.407005 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.465698,48.998121 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.241982,48.757273 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.761352,47.717485 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.636676,49.749783 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.58533,50.232381 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.658255,47.553462 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.750097,47.940666 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272488,47.4061 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.308265,51.298156 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.494821,48.413148 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.383477,49.000099 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.954044,47.843723 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.228186,49.999328 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.991175,53.563985 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.506215,47.923717 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.481721,47.66689 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.190522,53.912703 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.141682,53.946376 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.306403,50.668704 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.433292,54.792487 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.744718,54.34198 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.781023,48.143511 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.436465,54.702782 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.757715,54.058778 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.323483,47.764275 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.069475,49.448355 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.203297,48.428631 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.832365,54.791241 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.021227,47.570404 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.155852,54.339741 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.369246,49.186758 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.954774,49.438829 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.842861,52.491431 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.441441,47.675678 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.23953,50.285269 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.059837,48.509997 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.395391,53.104987 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.999867,49.231657 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.439834,52.279823 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.388302,52.52146 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.064567,51.400902 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.960563,50.939907 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.601334,48.140056 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.198592,53.410488 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.975407,48.176224 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.254161,47.410029 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.942487,50.962532 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.677343,48.223933 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.735285,51.042564 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.100792,47.492176 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.802357,48.01519448 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.78049,48.244465 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.414761,48.139552 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.611288,47.575506 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.984327,47.56142 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.814552,50.517776 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.99761,53.082132 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.386315,49.009556 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.049103,47.662465 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.109189,47.856358 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.627923,54.577291 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.787205,51.831082 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.471162,48.222282 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.222979,51.739682 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.557592,48.139487 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.710336,47.579602 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.984512,51.89284 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.022195,47.853385 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.785837,51.218326 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.735393,51.052223 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.661223,51.823366 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.677038,53.880637 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.668041,47.611856 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.113417,48.63796 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.803755,49.985065 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.431045,51.90989 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.542217,50.838332 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.143041,49.971537 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.467559,47.938961 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.637285,48.118322 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.112265,48.22182 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.246476,46.812475 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.926676,50.837382 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.801543,51.05914 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.198362,48.063118 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.123381,51.594064 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.178928,50.9105 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.764479,53.699019 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.564381,49.188344 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.969018,50.940403 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.280712,49.996864 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.374843,51.343066 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.08863,50.779496 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.014688,53.545544 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.682367,48.151572 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.743153,51.051848 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.75047,51.214912 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.735284,51.24248 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.157797,47.673924 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.569261,53.547334 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.108035,50.274661 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.370634,51.339658 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.593035,48.177006 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.553351,54.698808 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.151683,51.255561 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.878895,54.741022 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.186306,49.410284 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.103671,51.849175 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.185494,49.407941 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.139038,49.285562 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.019686,47.559834 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.289295,53.177888 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.968784,50.520506 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.311744,48.3562 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.697169,53.506965 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.019967,47.546369 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.010617,47.863959 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.755291,49.317262 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.153176,50.681618 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.950996,51.170584 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.89237,52.596101 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.297943,49.558735 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.319838,51.706704 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.190118,47.821135 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.676836,51.864153 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.437541,47.952944 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.262579,49.338299 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.470993,49.778468 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.622938,50.409443 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.661409,51.283481 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.354929,50.666928 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.424621,48.862946 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.791746,50.479823 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.415208,50.201406 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.918264,50.715531 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.007394,53.558474 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.79093,50.519953 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.553378,50.102058 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.695385,50.106138 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.977997,53.550999 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.118912,48.496175 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2281,48.614596 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.993425,51.125129 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.635246,51.961372 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.185234,48.430031 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.978857,54.04391 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.068962,48.363826 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.778131,51.233083 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.437829,51.195065 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.126062,51.41733 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.976679,51.432781 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.380487,52.503688 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.605631,51.955547 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.079764,49.493184 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.193645,48.69143 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.287984,49.930266 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.390212,52.519711 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.167635,52.421306 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.313219,50.615644 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.758875,50.095012 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.999256,51.590075 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.663429,47.74281 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.793246,49.269966 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.200865,51.613404 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.521345,51.191946 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.699568,54.373748 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.783534,51.221412 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.278702,47.404062 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.703231,48.888965 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.465426,48.148111 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.476761,51.348347 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.205673,49.121095 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.017292,50.93988 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.934882,54.662304 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.578803,48.138018 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.157462,47.683388 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.820619,50.993302 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.945361,50.939951 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.088748,47.490142 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.627212,50.117296 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.465429,47.67571 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.012693,53.560549 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.087619,48.754717 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.321552,47.779067 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.340948,53.530711 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.266775,48.288654 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.342103,49.874082 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.722801,51.298779 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.080188,47.479822 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.617823,53.815327 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.722906,51.683172 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.020128,47.477312 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.950102,51.281399 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.36763,54.892157 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.559547,51.882325 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.669674,53.37941 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501203,48.01517 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.966706,51.11322 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.383892,48.59738 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.092717,54.316635 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.428999,50.169721 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.705422,50.153562 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.333668,52.345561 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.041082,52.277317 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.226698,49.864994 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.137217,51.784146 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.305874,50.966821 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.695977,54.38018 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.341004,51.159387 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.845947,51.135784 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.021182,47.558604 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.284604,51.495153 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.27102,47.40459 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.626656,53.638007 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.184051,47.462162 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.543652,50.423065 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.757031,51.290962 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.633074,47.614037 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.011691,53.991891 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.960217,51.787912 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.542504,53.701189 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.440121,49.969898 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.080935,51.041713 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.415515,51.317404 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.167424,48.920984 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.251654,52.069152 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.609759,49.096828 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.418482,52.530269 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.330958,54.68122 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.677355,54.380483 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.63922,52.332875 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.645333,50.231443 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.616828,52.748966 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.97983,54.37646 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.559678,51.870204 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.654244,48.244727 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.587427,51.382719 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.272194,47.697626 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.178773,47.647767 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.485937,52.524338 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.174034,53.950727 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.665583,47.61349 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.475709,47.84903 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.639595,53.885126 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.532111,54.841534 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.165597,53.95796 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.863402,49.127472 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.34987,52.45262 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.533389,48.178865 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.425815,54.384082 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.380476,52.532951 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.484635,53.491306 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.023215,47.673438 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.58807,50.83174 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.290397,51.840312 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.588112,48.169667 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.965902,52.266109 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.590349,47.788246 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.375402,52.510243 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.080798,53.35239 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.586084,49.671201 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.644734,50.102941 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.092132,50.698724 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.720211,51.756922 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.520326,51.191799 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.961137,49.225456 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.451913,52.935125 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.080536,50.195712 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.500231,54.822827 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.566676,50.288212 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.208412,47.923556 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.341379,49.838639 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.446255,49.583729 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.191419,48.750395 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.169043,49.64736 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.205617,49.537524 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.655748,48.095224 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.307732,49.702626 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.672099,47.801433 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.760399,47.702127 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.312798,48.348769 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.385511,53.89772 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.045131,54.320073 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.729485,53.3560842 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.006302,50.068431 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.216261,51.486323 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.955056,47.737229 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.015112,50.001778 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.555669,48.13772 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.049406,52.846281 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.239104,53.618265 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.63748,49.507382 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.08576,50.816873 ]
+    },
+    "properties": {
+    "FIELD1":"SuperCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.42888,55.014485 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.669119,50.583283 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.867933,49.988547 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.195136,47.668576 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.159983,50.966732 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.898958,47.608506 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.654064,51.888853 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.409866,47.510576 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.988474,47.684606 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.001962,47.632095 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.768489,47.984545 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.898456,47.984919 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.607437,51.295475 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.120793,53.736613 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.53113,50.983481 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.808981,50.907714 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.784193,47.711825 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.573474,49.303246 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.350156,48.001659 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.88858,49.970908 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.2296,49.96928 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.212511,49.43995 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.376884,51.343386 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.409006,47.51524 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.593547,50.055329 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.168141,48.691906 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.734771,50.996887 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.008346,53.632361 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.711884,47.714462 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.731595,49.252973 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.106907,51.20361 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.988296,53.549518 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.888962,52.0289 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.319614,54.935974 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.283725,53.404345 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.457533,52.528476 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.543015,52.003389 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.522156,49.973829 ]
+    },
+    "properties": {
+    "FIELD1":"DestCharger"
+    }
+  }
+]
+}
